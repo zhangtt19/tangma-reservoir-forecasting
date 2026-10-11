@@ -1,0 +1,326 @@
+[
+  {
+    "file": "figures/reservoir-location.png",
+    "source_media": "image1.png",
+    "caption_zh": "图1-1 塘马水库基本概况",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/station-input-format.png",
+    "source_media": "image6.png",
+    "caption_zh": "图2-2 雨量站引入文件格式",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/rain-gauges.png",
+    "source_media": "image7.png",
+    "caption_zh": "图2-3 雨量站分布",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/platform-series-example.png",
+    "source_media": "image8.png",
+    "caption_zh": "图2-4 编辑水文序列          图2-5 水文序列创建",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/series-setup.png",
+    "source_media": "image9.png",
+    "caption_zh": "图2-4 编辑水文序列          图2-5 水文序列创建",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/data-import.png",
+    "source_media": "image10.png",
+    "caption_zh": "图2-6 检查、核对引入水文数据",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/rainfall-scheme-selection.png",
+    "source_media": "image11.png",
+    "caption_zh": "图2-7 设置雨量站计算方案界面图",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/rainfall-settings.png",
+    "source_media": "image12.png",
+    "caption_zh": "图2-8 等雨量线参数设置界面        图2-9 自动生成雨量站权重",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/station-weighting.png",
+    "source_media": "image13.png",
+    "caption_zh": "图2-8 等雨量线参数设置界面        图2-9 自动生成雨量站权重",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/evaporation-settings.png",
+    "source_media": "image14.png",
+    "caption_zh": "图2-10 蒸发信息详细设置",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/technical-workflow.png",
+    "source_media": "image15.png",
+    "caption_zh": "图3-1预报调度系统开发技术路线",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/distributed-catchment.png",
+    "source_media": "image16.png",
+    "caption_zh": "图3-2 塘马水库上游控制区域分布式水文模型",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/catchment-boundary.png",
+    "source_media": "image17.png",
+    "caption_zh": "图3-3 塘马水库流域范围",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/water-balance-concept.png",
+    "source_media": "image36.png",
+    "caption_zh": "图3-6 水量平衡示意图",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/terrain-setup.png",
+    "source_media": "image53.png",
+    "caption_zh": "图3-7 栅格型地型数据派生",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/outlet-setup.png",
+    "source_media": "image54.png",
+    "caption_zh": "图3-8 流域出口及面积阈值设置",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/subcatchment-map.png",
+    "source_media": "image55.png",
+    "caption_zh": "图3-9 塘马水库流域新安江模型",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/reservoir-model-setup.png",
+    "source_media": "image56.png",
+    "caption_zh": "图3-10 塘马水库零维模型",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/catchment-reservoir-coupling.png",
+    "source_media": "image57.png",
+    "caption_zh": "图3-11 山区水文模型与塘马水库耦合",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/operating-levels.png",
+    "source_media": "image58.png",
+    "caption_zh": "图3-12 塘马水库水库调度要素",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/thiessen-scheme-1.png",
+    "source_media": "image60.png",
+    "caption_zh": "图4-1 雨量站泰森多边形分布图（不同年份的两种方案）",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/thiessen-scheme-2.png",
+    "source_media": "image61.png",
+    "caption_zh": "图4-1 雨量站泰森多边形分布图（不同年份的两种方案）",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/inflow-2016.png",
+    "source_media": "image62.png",
+    "caption_zh": "图4-2 2016年洪水流量过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/inflow-2020.png",
+    "source_media": "image63.png",
+    "caption_zh": "图4-3 2020年洪水流量过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/inflow-2021.png",
+    "source_media": "image64.png",
+    "caption_zh": "图4-4 2021年洪水流量过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/inflow-2022.png",
+    "source_media": "image65.png",
+    "caption_zh": "图4-5 2022年洪水流量过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/stage-2016.png",
+    "source_media": "image66.png",
+    "caption_zh": "图4-6 2016年洪水水位过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/stage-2020.png",
+    "source_media": "image67.png",
+    "caption_zh": "图4-7 2020年洪水水位过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/stage-2021.png",
+    "source_media": "image68.png",
+    "caption_zh": "图4-8 2021年洪水水位过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/stage-2022.png",
+    "source_media": "image69.png",
+    "caption_zh": "图4-9 2022年洪水水位过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/model-overview.png",
+    "source_media": "image70.png",
+    "caption_zh": "模型系统界面",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/forecast-time-setup.png",
+    "source_media": "image72.png",
+    "caption_zh": "图5-2 人工交互预报依据时间设置界面",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/forecast-rainfall-input.png",
+    "source_media": "image73.png",
+    "caption_zh": "图5-3 人工交互降雨量输入界面",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/forecast-comparison-interface.png",
+    "source_media": "image74.png",
+    "caption_zh": "图5-4 预报方案对比统计界面",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/operation-interface.png",
+    "source_media": "image75.png",
+    "caption_zh": "图5-5 工程调度展示界面",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/pre-release-workflow.png",
+    "source_media": "image76.png",
+    "caption_zh": "图5-6 预泄水位推算流程图",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/scenario-management-interface.png",
+    "source_media": "image77.png",
+    "caption_zh": "图5-8 调度方案管理界面",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/manual-step-1.png",
+    "source_media": "image78.png",
+    "caption_zh": "操作手册步骤 1",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/manual-step-2.png",
+    "source_media": "image79.png",
+    "caption_zh": "操作手册步骤 2",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/manual-step-3.png",
+    "source_media": "image80.png",
+    "caption_zh": "操作手册步骤 3",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/manual-step-4.png",
+    "source_media": "image81.png",
+    "caption_zh": "操作手册步骤 4",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/manual-step-5.png",
+    "source_media": "image82.png",
+    "caption_zh": "操作手册步骤 5",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/engineering-location-map.jpeg",
+    "source_media": "image83.jpeg",
+    "caption_zh": "附图1 塘马水库工程位置示意图",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/regional-river-network.jpeg",
+    "source_media": "image84.jpeg",
+    "caption_zh": "附图2 塘马水库所在流域水系图",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/stage-storage-curve.png",
+    "source_media": "image85.png",
+    "caption_zh": "附图3  塘马水库水位与库容关系曲线",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/stage-area-curve.png",
+    "source_media": "image86.png",
+    "caption_zh": "附图4 塘马水库水位与面积关系曲线",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/pre-release-result.png",
+    "source_media": "image87.png",
+    "caption_zh": "图5-7 预泄方案下的水位变化过程",
+    "source": "report V4"
+  },
+  {
+    "file": "figures/original-diagram-18.png",
+    "source_media": "image18.emf",
+    "caption_zh": "图3-4 雨量站单元产汇流计算框图",
+    "source": "report V4; rendered from original vector"
+  },
+  {
+    "file": "figures/original-diagram-19.png",
+    "source_media": "image19.emf",
+    "caption_zh": "图3-5 新安江模型空间结构组合图",
+    "source": "report V4; rendered from original vector"
+  },
+  {
+    "file": "figures/original-diagram-71.png",
+    "source_media": "image71.emf",
+    "caption_zh": "模型Web服务调用逻辑",
+    "source": "report V4; rendered from original vector"
+  },
+  {
+    "file": "figures/field-context-2.jpeg",
+    "source_media": "image2.jpeg",
+    "caption_zh": "溢洪闸现场",
+    "source": "report V4; original orientation"
+  },
+  {
+    "file": "figures/field-context-3.jpeg",
+    "source_media": "image3.jpeg",
+    "caption_zh": "水库坝体现场",
+    "source": "report V4; original orientation"
+  },
+  {
+    "file": "figures/field-context-4.jpeg",
+    "source_media": "image4.jpeg",
+    "caption_zh": "出库河道现场",
+    "source": "report V4; original orientation"
+  },
+  {
+    "file": "figures/field-context-5.png",
+    "source_media": "image5.png",
+    "caption_zh": "水库全景",
+    "source": "report V4; original orientation"
+  }
+]

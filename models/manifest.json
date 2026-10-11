@@ -1,0 +1,47 @@
+{
+  "scope": "Native model only; separate hydrological input and result archives excluded",
+  "files": [
+    {
+      "path": "塘马水库模型.APG",
+      "bytes": 8192,
+      "sha256": "ef3b975c819be2102d2a017e3033f61deca33aaf9608068ed237c598808ef262"
+    },
+    {
+      "path": "塘马水库模型.bds",
+      "bytes": 211139475,
+      "sha256": "2356125a1896032ce01bfcfb8e4ec27b2acc4f24b3351903c715f27f10e322ed"
+    },
+    {
+      "path": "塘马水库模型.GRA",
+      "bytes": 10891,
+      "sha256": "6aedfcef24396bb15a9c309808561017b773729c938a6287ac9f21db6d7dce91"
+    },
+    {
+      "path": "塘马水库模型.WAP",
+      "bytes": 1139,
+      "sha256": "520404b7965d28c3852b719cf9733bd134bb9b53a256fd9cd667e23a5cc9e9a2"
+    }
+  ],
+  "archive": {
+    "name": "tangma-model.zip",
+    "bytes": 49919086,
+    "sha256": "3bee120ea4b90352c58f3e95fbdec734e680687c210da10ee6f533783b61a9eb",
+    "parts": [
+      {
+        "name": "tangma-model.zip.001",
+        "bytes": 16777215,
+        "sha256": "b575aa967bea3167364821b512091b4afe31e0f9a17d2bba98aab013c469c2d3"
+      },
+      {
+        "name": "tangma-model.zip.002",
+        "bytes": 16777215,
+        "sha256": "36ad89bf8767c0762433f3b42a1c2e049fc58315aae597af062874ccde386d33"
+      },
+      {
+        "name": "tangma-model.zip.003",
+        "bytes": 16364656,
+        "sha256": "644c048f9bf40cb86fed265a2348c34db4968b341f43aaefd693a57e5069db34"
+      }
+    ]
+  }
+}
